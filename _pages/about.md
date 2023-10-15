@@ -1,15 +1,13 @@
 ---
 layout: page
 title: About
-description: I'm a creative and curious person who has a lot of experience and fond moments working with design, websites, and marketing.
+description: I am curious and creative person and have a wide range of interests, including artificial intelligence, physics, spirituality and neuroscience.
 permalink: /about/
 image: '/images/01-2.jpg'
-image_caption: 'Photo by [Bruce Dixon](https://unsplash.com/photos/3M9WJQVHzog) on [Unsplash](https://unsplash.com/)'
+image_caption: 'Photo taken at Stockholm'
 ---
 
-Hymnals are books with collections of musical hymns that can typically be found in churches. Prayerbooks or missals are books that contain written prayers and are commonly carried by monks, nuns, and other devoted followers or clergy. Lap books are a learning tool created by students.
-
-There are several other types of books which are not commonly found under this system. Albums are books for holding a group of items belonging to a particular theme, such as a set of photographs, card collections, and memorabilia. One common example is stamp albums, which are used by many hobbyists to protect and organize their collections of postage stamps. Such albums are often made using removable plastic pages held inside in a ringed binder or other similar holder. Picture books are books for children with pictures on every page and less text (or even no text).
+This site serves as my portfolio as well as blogpost. For years I have been building projects and writing notes that are scattered around www. Various sites will come and get outdated, but this personal site is here to stay. Anyway, I wanted a place to post my thoughts and knowledge in both formal and informal way. I plan to do that with this personal site.
 
 <div class="gallery-box">
   <div class="gallery">
