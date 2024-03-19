@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Akio</title>
-        <description>Creative Portfolio Theme for Jekyll.</description>
-        <link>/</link>
-        <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 15 Oct 2023 15:10:46 +0200</pubDate>
-        <lastBuildDate>Sun, 15 Oct 2023 15:10:46 +0200</lastBuildDate>
+        <title>DigiDiary</title>
+        <description>My portfolio and digital diary.</description>
+        <link>http://localhost:4000/</link>
+        <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Tue, 19 Mar 2024 16:09:52 +0100</pubDate>
+        <lastBuildDate>Tue, 19 Mar 2024 16:09:52 +0100</lastBuildDate>
         <generator>Jekyll v4.3.2</generator>
         
             <item>
@@ -48,8 +48,8 @@
 &lt;p&gt;Paper was first made in China as early as 200 BC, and reached Europe through Muslim territories. At first made of rags, the industrial revolution changed paper-making practices, allowing for paper to be made out of wood pulp. Papermaking in Europe began in the 11th century, although vellum was also common there as page material up until the beginning of the 16th century, vellum being the more expensive and durable option.&lt;/p&gt;
 </description>
                 <pubDate>Fri, 14 Oct 2022 14:01:35 +0200</pubDate>
-                <link>/blog/that-which-does-not-kill-us-makes-us-stronger</link>
-                <guid isPermaLink="true">/blog/that-which-does-not-kill-us-makes-us-stronger</guid>
+                <link>http://localhost:4000/blog/that-which-does-not-kill-us-makes-us-stronger</link>
+                <guid isPermaLink="true">http://localhost:4000/blog/that-which-does-not-kill-us-makes-us-stronger</guid>
                 
                 <category>workflow</category>
                 
@@ -99,8 +99,8 @@
 &lt;p&gt;Paper was first made in China as early as 200 BC, and reached Europe through Muslim territories. At first made of rags, the industrial revolution changed paper-making practices, allowing for paper to be made out of wood pulp. Papermaking in Europe began in the 11th century, although vellum was also common there as page material up until the beginning of the 16th century, vellum being the more expensive and durable option.&lt;/p&gt;
 </description>
                 <pubDate>Wed, 12 Oct 2022 14:01:35 +0200</pubDate>
-                <link>/blog/do-what-you-can-with-what-you-have-where-you-are</link>
-                <guid isPermaLink="true">/blog/do-what-you-can-with-what-you-have-where-you-are</guid>
+                <link>http://localhost:4000/blog/do-what-you-can-with-what-you-have-where-you-are</link>
+                <guid isPermaLink="true">http://localhost:4000/blog/do-what-you-can-with-what-you-have-where-you-are</guid>
                 
                 <category>lifestyle</category>
                 
@@ -150,8 +150,8 @@
 &lt;p&gt;Paper was first made in China as early as 200 BC, and reached Europe through Muslim territories. At first made of rags, the industrial revolution changed paper-making practices, allowing for paper to be made out of wood pulp. Papermaking in Europe began in the 11th century, although vellum was also common there as page material up until the beginning of the 16th century, vellum being the more expensive and durable option.&lt;/p&gt;
 </description>
                 <pubDate>Tue, 11 Oct 2022 14:01:35 +0200</pubDate>
-                <link>/blog/if-you-cannot-do-great-things-do-small-things-in-a-great-way</link>
-                <guid isPermaLink="true">/blog/if-you-cannot-do-great-things-do-small-things-in-a-great-way</guid>
+                <link>http://localhost:4000/blog/if-you-cannot-do-great-things-do-small-things-in-a-great-way</link>
+                <guid isPermaLink="true">http://localhost:4000/blog/if-you-cannot-do-great-things-do-small-things-in-a-great-way</guid>
                 
                 <category>lifestyle</category>
                 
@@ -201,8 +201,8 @@
 &lt;p&gt;Paper was first made in China as early as 200 BC, and reached Europe through Muslim territories. At first made of rags, the industrial revolution changed paper-making practices, allowing for paper to be made out of wood pulp. Papermaking in Europe began in the 11th century, although vellum was also common there as page material up until the beginning of the 16th century, vellum being the more expensive and durable option.&lt;/p&gt;
 </description>
                 <pubDate>Mon, 10 Oct 2022 14:01:35 +0200</pubDate>
-                <link>/blog/strive-not-to-be-a-success-but-rather-to-be-of-value</link>
-                <guid isPermaLink="true">/blog/strive-not-to-be-a-success-but-rather-to-be-of-value</guid>
+                <link>http://localhost:4000/blog/strive-not-to-be-a-success-but-rather-to-be-of-value</link>
+                <guid isPermaLink="true">http://localhost:4000/blog/strive-not-to-be-a-success-but-rather-to-be-of-value</guid>
                 
                 <category>technology</category>
                 
@@ -252,8 +252,8 @@
 &lt;p&gt;Paper was first made in China as early as 200 BC, and reached Europe through Muslim territories. At first made of rags, the industrial revolution changed paper-making practices, allowing for paper to be made out of wood pulp. Papermaking in Europe began in the 11th century, although vellum was also common there as page material up until the beginning of the 16th century, vellum being the more expensive and durable option.&lt;/p&gt;
 </description>
                 <pubDate>Sun, 09 Oct 2022 14:01:35 +0200</pubDate>
-                <link>/blog/a-journey-of-a-thousand-leagues-begins-beneath-one%CE%B3%C3%A7%C3%B6s-feet</link>
-                <guid isPermaLink="true">/blog/a-journey-of-a-thousand-leagues-begins-beneath-one%CE%B3%C3%A7%C3%B6s-feet</guid>
+                <link>http://localhost:4000/blog/a-journey-of-a-thousand-leagues-begins-beneath-one%CE%B3%C3%A7%C3%B6s-feet</link>
+                <guid isPermaLink="true">http://localhost:4000/blog/a-journey-of-a-thousand-leagues-begins-beneath-one%CE%B3%C3%A7%C3%B6s-feet</guid>
                 
                 <category>travel</category>
                 
@@ -303,8 +303,8 @@
 &lt;p&gt;Paper was first made in China as early as 200 BC, and reached Europe through Muslim territories. At first made of rags, the industrial revolution changed paper-making practices, allowing for paper to be made out of wood pulp. Papermaking in Europe began in the 11th century, although vellum was also common there as page material up until the beginning of the 16th century, vellum being the more expensive and durable option.&lt;/p&gt;
 </description>
                 <pubDate>Sat, 08 Oct 2022 14:01:35 +0200</pubDate>
-                <link>/blog/life-shrinks-or-expands-in-proportion-to-one%CE%B3%C3%A7%C3%B6s-courage</link>
-                <guid isPermaLink="true">/blog/life-shrinks-or-expands-in-proportion-to-one%CE%B3%C3%A7%C3%B6s-courage</guid>
+                <link>http://localhost:4000/blog/life-shrinks-or-expands-in-proportion-to-one%CE%B3%C3%A7%C3%B6s-courage</link>
+                <guid isPermaLink="true">http://localhost:4000/blog/life-shrinks-or-expands-in-proportion-to-one%CE%B3%C3%A7%C3%B6s-courage</guid>
                 
                 <category>notes</category>
                 
@@ -354,8 +354,8 @@
 &lt;p&gt;Paper was first made in China as early as 200 BC, and reached Europe through Muslim territories. At first made of rags, the industrial revolution changed paper-making practices, allowing for paper to be made out of wood pulp. Papermaking in Europe began in the 11th century, although vellum was also common there as page material up until the beginning of the 16th century, vellum being the more expensive and durable option.&lt;/p&gt;
 </description>
                 <pubDate>Sun, 29 May 2022 17:05:55 +0200</pubDate>
-                <link>/blog/everything-has-beauty-but-not-everyone-can-see</link>
-                <guid isPermaLink="true">/blog/everything-has-beauty-but-not-everyone-can-see</guid>
+                <link>http://localhost:4000/blog/everything-has-beauty-but-not-everyone-can-see</link>
+                <guid isPermaLink="true">http://localhost:4000/blog/everything-has-beauty-but-not-everyone-can-see</guid>
                 
                 <category>fashion</category>
                 
@@ -405,8 +405,8 @@
 &lt;p&gt;Paper was first made in China as early as 200 BC, and reached Europe through Muslim territories. At first made of rags, the industrial revolution changed paper-making practices, allowing for paper to be made out of wood pulp. Papermaking in Europe began in the 11th century, although vellum was also common there as page material up until the beginning of the 16th century, vellum being the more expensive and durable option.&lt;/p&gt;
 </description>
                 <pubDate>Fri, 24 Apr 2020 14:01:35 +0200</pubDate>
-                <link>/blog/remember-that-happiness-is-a-way-of-travel-not-a-destination</link>
-                <guid isPermaLink="true">/blog/remember-that-happiness-is-a-way-of-travel-not-a-destination</guid>
+                <link>http://localhost:4000/blog/remember-that-happiness-is-a-way-of-travel-not-a-destination</link>
+                <guid isPermaLink="true">http://localhost:4000/blog/remember-that-happiness-is-a-way-of-travel-not-a-destination</guid>
                 
                 <category>fashion</category>
                 
