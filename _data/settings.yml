@@ -49,7 +49,7 @@ hero:
   enable: true
   hero__title: Hey everyone, I’m Jayant Yadav
   hero__description: Hi, I'm Jay – Data Enthusiast. I'm a creative and curious person who has a lot of experience and fond moments working with software engineering, data visuals, and mathematics.
-  hero__image: "/images/01-1.jpg"
+  hero__image: "/images/DSCF1944.jpg"
 
 
 #-------------------------------
@@ -95,9 +95,9 @@ mailchimp:
 #-------------------------------
 # Work Settings
 work:
-  enable: false
-  work__title: Work
-  work__description: I shows only the best websites and portfolios built completely with passion, simplicity & creativity!
+  enable: true
+  work__title: Photography
+  work__description: I am picky about the pictures that I display. So here is a collection breaking that habit.
 
 
 #-------------------------------
