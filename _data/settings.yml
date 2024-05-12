@@ -49,7 +49,7 @@ hero:
   enable: true
   hero__title: Hey everyone, I’m Jayant Yadav
   hero__description: Hi, I'm Jay – Data Enthusiast. I'm a creative and curious person who has a lot of experience and fond moments working with software engineering, data visuals, and mathematics.
-  hero__image: "https://github.com/jayant-yadav/jayant-yadav.github.io/blob/main/images/DSCF1944.jpg?raw=true"
+  hero__image: "/images/DSCF1944_lowres.jpg"
 
 
 #-------------------------------
