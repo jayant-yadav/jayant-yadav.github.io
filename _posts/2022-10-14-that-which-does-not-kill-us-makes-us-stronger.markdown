@@ -1,11 +1,11 @@
 ---
 layout: post
-title: That which does not kill us makes us stronger
-description: Hymnals are books with collections of musical hymns that can typically be found in churches. Prayerbooks or missals are books that contain written prayers and are commonly carried by monks, nuns, and other devoted followers or clergy.
-date: 2022-10-14 15:01:35 +0300
+title: Theoritical Limitations of Embedding-Based Retrieval
+description: The paper reveils that the dimension of embedding limts the top-k results returned when used as in a retrieval engine. It further gives emperical proofs of this theoritical limit on k and stresses the use of other methods to improve the document retrival task in NLP.
+Date: 2025-09-04 15:01:35 +0300
 image: '/images/post-1.jpg'
 image_caption: 'Photo by [Ben Weber](https://unsplash.com/photos/btK4Ja_4W6g) on [Unsplash](https://unsplash.com/)'
-tags: [workflow, notes, study]
+tags: [notes, study]
 ---
 
 Hymnals are books with collections of musical hymns that can typically be found in churches. Prayerbooks or missals are books that contain written prayers and are commonly carried by monks, nuns, and other devoted followers or clergy. Lap books are a learning tool created by students.

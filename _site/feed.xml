@@ -5,12 +5,12 @@
         <description>My portfolio and digital diary.</description>
         <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 12 May 2024 19:36:09 +0200</pubDate>
-        <lastBuildDate>Sun, 12 May 2024 19:36:09 +0200</lastBuildDate>
+        <pubDate>Thu, 04 Sep 2025 10:33:10 +0200</pubDate>
+        <lastBuildDate>Thu, 04 Sep 2025 10:33:10 +0200</lastBuildDate>
         <generator>Jekyll v4.3.2</generator>
         
             <item>
-                <title>That which does not kill us makes us stronger</title>
+                <title>Theoritical Limitations of Embedding-Based Retrieval</title>
                 <description>&lt;p&gt;Hymnals are books with collections of musical hymns that can typically be found in churches. Prayerbooks or missals are books that contain written prayers and are commonly carried by monks, nuns, and other devoted followers or clergy. Lap books are a learning tool created by students.&lt;/p&gt;
 
 &lt;p&gt;There are several other types of books which are not commonly found under this system. Albums are books for holding a group of items belonging to a particular theme, such as a set of photographs, card collections, and memorabilia. One common example is stamp albums, which are used by many hobbyists to protect and organize their collections of postage stamps. Such albums are often made using removable plastic pages held inside in a ringed binder or other similar holder. Picture books are books for children with pictures on every page and less text (or even no text).&lt;/p&gt;
@@ -47,11 +47,9 @@
 
 &lt;p&gt;Paper was first made in China as early as 200 BC, and reached Europe through Muslim territories. At first made of rags, the industrial revolution changed paper-making practices, allowing for paper to be made out of wood pulp. Papermaking in Europe began in the 11th century, although vellum was also common there as page material up until the beginning of the 16th century, vellum being the more expensive and durable option.&lt;/p&gt;
 </description>
-                <pubDate>Fri, 14 Oct 2022 14:01:35 +0200</pubDate>
+                <pubDate>Fri, 14 Oct 2022 00:00:00 +0200</pubDate>
                 <link>http://localhost:4000/blog/that-which-does-not-kill-us-makes-us-stronger</link>
                 <guid isPermaLink="true">http://localhost:4000/blog/that-which-does-not-kill-us-makes-us-stronger</guid>
-                
-                <category>workflow</category>
                 
                 <category>notes</category>
                 
