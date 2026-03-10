@@ -61,7 +61,7 @@ logos:
 logo__items:
   - name: UPPMAX
     link: "https://www.uu.se/en/centre/uppmax"
-    image: "/images/companies/uu-logo-red.svg"
+    image: "/images/companies/uppsala-universitet.svg"
     height: 100
 
   - name: NAISS
@@ -73,6 +73,11 @@ logo__items:
     link: "https://www.unicef.org/innovation/"
     image: "/images/companies/unicef.svg"
 
+  - name: UHO-UMC
+    link: "https://who-umc.org/"
+    image: "/images/companies/who-umc.svg"
+    height: 100
+
 
   - name: Delloite
     link: "https://www2.deloitte.com/"
@@ -82,14 +87,6 @@ logo__items:
   # - name: Dure Techonologies
   #   link: "https://duretechnologies.com/"
   #   image: "/images/companies/download.svg"
-
-  # - name: Apple
-  #   link: "https://www.apple.com/"
-  #   image: "/images/apple.svg"
-
-  # - name: Adobe
-  #   link: "https://www.adobe.com/"
-  #   image: "/images/adobe.svg"
 
 #-------------------------------
 # Newsletter
@@ -119,7 +116,7 @@ testimonial__description:
 testimonial__items:
   - name: "Joana Rosado Coelho, PhD"
     image: "/images/Joana.jpg"
-    designation: "Head of Data Science"
+    designation: "Head of Data Science | WHO-UMC"
     link: "https://www.linkedin.com/in/jrosadocoelho/"
     content : "Jayant's blend of technical expertise, particularly in NLP, along with his collaborative approach, makes me confident in his ability to excel in future endeavors. I endorse him with full confidence."
 
