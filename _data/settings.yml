@@ -83,10 +83,10 @@ logo__items:
     link: "https://www2.deloitte.com/"
     image: "/images/companies/deloitte.svg"
 
-
   # - name: Dure Techonologies
   #   link: "https://duretechnologies.com/"
-  #   image: "/images/companies/download.svg"
+  #   image: "/images/companies/dure.svg"
+  #   height: 100
 
 #-------------------------------
 # Newsletter
@@ -133,7 +133,7 @@ blog__settings:
 
 #-------------------------------
 # Footer Settings
-footer__background__image: "/images/bg.jpg"
+footer__background__image: "/images/footer_banner.jpeg"
 
 #-------------------------------
 # Contact Settings
