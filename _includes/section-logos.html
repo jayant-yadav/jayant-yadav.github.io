@@ -13,7 +13,7 @@
           {% for logo in site.data.settings.logo__items %}
           <li class="logos__item">
             <a href="{{ logo.link }}" class="logos__link" rel="noopener">
-              <img src="{{ logo.image }}" alt="{{ logo.name }}" class="logos__image">
+              <img src="{{ logo.image }}" alt="{{ logo.name }}" class="logos__image"{% if logo.height %} style="height: {{ logo.height }}px"{% endif %}>
             </a>
           </li>
           {% endfor %}

@@ -6,6 +6,7 @@ date: 2022-10-11 15:01:35 +0300
 image: '/images/post-3.jpg'
 image_caption: 'Photo by [Brantley Neal](https://unsplash.com/photos/yMyKQQL4Pfc) on [Unsplash](https://unsplash.com/)'
 tags: [lifestyle, rest, notes]
+published: false
 ---
 
 Hymnals are books with collections of musical hymns that can typically be found in churches. Prayerbooks or missals are books that contain written prayers and are commonly carried by monks, nuns, and other devoted followers or clergy. Lap books are a learning tool created by students.

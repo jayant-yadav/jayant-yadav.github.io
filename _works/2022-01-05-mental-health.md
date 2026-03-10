@@ -6,6 +6,7 @@ date: 2022-01-05 08:01:35 +0300
 role: Graphic Designer
 image: '/images/work-6.jpg'
 image_caption: 'Photo by [Freepik](https://www.freepik.com/)'
+published: false
 ---
 
 Hardcover books have a stiff binding. Paperback books have cheaper, flexible covers which tend to be less durable. An alternative to paperback is the glossy cover, otherwise known as a dust cover, found on magazines, and comic books. Spiral-bound books are bound by spirals made of metal or plastic. Examples of spiral-bound books include teachers' manuals and puzzle books (crosswords, sudoku).

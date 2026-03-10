@@ -17,7 +17,8 @@ description: I am picky about the pictures that I display. So here is a collecti
 
 <div class="work-page container animate">
   <div class="row">
-    {% for work in site.works reversed %}
+    {% assign visible_works = site.works | where_exp: "item", "item.published != false" | reverse %}
+    {% for work in visible_works %}
       <article class="work col col-4 col-d-6 col-t-12">
         <div class="work__content">
           <a href="{{ work.url }}" class="work__image">

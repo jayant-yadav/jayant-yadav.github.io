@@ -14,7 +14,7 @@ menu__settings:
       url: '/'
     - title: 'About'
       url: '/about/'
-    - title: 'Work'
+    - title: 'Photography'
       url: '/work/'
     - title: 'Writing'
       url: '/blog/'
@@ -22,8 +22,8 @@ menu__settings:
       submenu:
       - url: '/contact/'
         title: 'Contact'
-      - url: '/elements/'
-        title: 'Elements'
+      # - url: '/elements/'
+      #   title: 'Elements'
 
 
 #-------------------------------
@@ -60,20 +60,28 @@ logos:
 
 logo__items:
   - name: UPPMAX
-    link: "https://www.naiss.se/resource/rackham/"
-    image: "/images/uppsala-universitet.svg"
+    link: "https://www.uu.se/en/centre/uppmax"
+    image: "/images/companies/uu-logo-red.svg"
+    height: 100
+
+  - name: NAISS
+    link: "https://www.naiss.se/"
+    image: "/images/companies/naiss.svg"
+    height: 30
 
   - name: UNICEF
     link: "https://www.unicef.org/innovation/"
-    image: "/images/unicef.svg"
+    image: "/images/companies/unicef.svg"
+
 
   - name: Delloite
     link: "https://www2.deloitte.com/"
-    image: "/images/deloitte.svg"
+    image: "/images/companies/deloitte.svg"
 
-  - name: Dure Techonologies
-    link: "https://duretechnologies.com/"
-    image: "/images/dure_tech.svg"
+
+  # - name: Dure Techonologies
+  #   link: "https://duretechnologies.com/"
+  #   image: "/images/companies/download.svg"
 
   # - name: Apple
   #   link: "https://www.apple.com/"
@@ -115,17 +123,6 @@ testimonial__items:
     link: "https://www.linkedin.com/in/jrosadocoelho/"
     content : "Jayant's blend of technical expertise, particularly in NLP, along with his collaborative approach, makes me confident in his ability to excel in future endeavors. I endorse him with full confidence."
 
-  - name: "Carla Rosser"
-    image: "/images/client-2.jpg"
-    designation: "Statistician"
-    link: "https://facebook.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
-
-  - name: "Maria Curtis"
-    image: "/images/client-3.jpg"
-    designation: "Team Lead"
-    link: "https://twitter.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
 
 #-------------------------------
 # Blog Section
