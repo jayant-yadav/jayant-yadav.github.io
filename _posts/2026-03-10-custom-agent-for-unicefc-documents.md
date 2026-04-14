@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Custom Agent for UNICEF Documents
-description: The paper reveils that the dimension of embedding limts the top-k results returned when used as in a retrieval engine. It further gives emperical proofs of this theoritical limit on k and stresses the use of other methods to improve the document retrival task in NLP.
+description: A RAG QA system for public UNICEF documents for Innovation specific responses. 
 Date: 2026-03-10 15:01:35 +0300
 image: '/images/posts/post-2/custom_rag.png'
 image_caption: 'Custom UNICEF agent'
