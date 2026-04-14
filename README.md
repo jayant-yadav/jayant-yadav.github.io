@@ -1,53 +1,6 @@
-# Akio – Creative Portfolio Theme for Jekyll
+# DigiDiary
 
-Akio is a creative personal portfolio Jekyll theme. This theme has a modern design and high-speed performance. The highlights of this theme include support Github Pages, light and dark mode, and also sections such as work, blog, clients, and testimonials. Perfectly suitable for any developer, designer, freelancer, software engineer, or some other who needs a professional way to showcase their work.
-
-* * *
-
-### Demo
-
-Check the theme in action [Live Demo](https://akio-jekyll.netlify.app/) |
-[Artem Sheludko](https://jekyllthemes.io/developers/artem-sheludko)
-
-* * *
-
-### Theme features
-
-- Works with GitHub Pages (host it for free)
-- Dark and light mode user can select themself
-- No jQuery, only vanilla JS
-- 100% responsive Design
-- Clean Code
-- Optimized for mobile devices
-- Section Blog
-- Section Works
-- Section Testimonials
-- Super fast performance ⚡⚡⚡
-- Social sharing buttons
-- Scroll to top button
-- Syntax highlighting (supports the Jekyll syntax highlighter)
-- Compatible with modern browsers
-- Medium style image zoom
-- Image Lazy loading
-- Image gallery
-- Custom logo support
-- Supports contact form (Formspree)
-- Supports MailChimp newsletter
-- Supports Disqus comments
-- Supports Google Analytics
-- Ionicons icons
-- Free Google Fonts
-- Free Updates & Support
-
-* * *
-
-### Installation
-
-#### Installing Ruby & Jekyll
-
-If this is your first time using Jekyll, please follow the [Jekyll docs](https://jekyllrb.com/docs/installation/) and make sure your local environment (including Ruby) is setup correctly.
-
-* * *
+A place to put my thoughts onto the world. No GPT needed.
 
 ### Deployment
 
@@ -55,14 +8,23 @@ To run the theme locally, navigate to the theme directory and run `bundle instal
 
 I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll website.
 
-* * *
+### Dir structure
 
-### Documentation
+Directory	Role
+_posts	Jekyll's special built-in collection for blog posts
+_works	A custom collection (defined in _config.yml)
+_pages	Another custom collection for static pages
+_layouts	HTML templates/wrappers
+_includes	Reusable HTML partials (like components)
+_sass	SCSS source files, compiled into CSS
+_data	YAML/JSON data files, accessible as site.data.*
+_site	Jekyll's build output — the actual generated website. Never edit this manually.
 
-Before using the Akio theme, please read the attached documentation.
+Page flow: 
+_posts/2025-09-04-my-post.md   ← you write here
+        ↓ Jekyll processes
+_site/blog/my-post/index.html  ← generated output, served at /blog/my-post
 
-* * *
+blog/index.html                ← listing page, served at /blog
 
-### Support
-
-<p>If you have any questions, please feel free to contact me by mail <a href="mailto:hi.artemsheludko@gmail.com">Contact</a><p>
+Note to myself: write posts in _posts, the blog dir is just the index/listing page.
